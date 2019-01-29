@@ -1,2 +1,2 @@
 # PyCalcu
-A simple calculator written in Python.
+A simple text-based calculator written in Python.
