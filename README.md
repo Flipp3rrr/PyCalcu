@@ -6,4 +6,4 @@ A simple text-based calculator written in Python.
 2. -
 
 ## 1. Download
-If you want to download this program you can use [this|https://github.com/Flipp3rrr/PyCalcu.git] link.
+If you want to download this program you can use [ this | https://github.com/Flipp3rrr/PyCalcu.git ] link.
